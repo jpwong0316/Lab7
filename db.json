@@ -4,6 +4,36 @@
       "id": 1,
       "title": "json-server",
       "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "my boi",
+      "author": "whassup"
+    },
+    {
+      "id": 3,
+      "title": "uptest",
+      "author": "testup"
+    },
+    {
+      "id": 4,
+      "title": "sdfsfs",
+      "author": "sdf"
+    },
+    {
+      "title": "asdfg",
+      "author": "qwerty",
+      "id": 5
+    },
+    {
+      "title": "usadapekora",
+      "author": "konpeko",
+      "id": 6
+    },
+    {
+      "title": "dayo",
+      "author": "yo",
+      "id": 7
     }
   ],
   "comments": [
