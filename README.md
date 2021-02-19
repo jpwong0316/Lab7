@@ -3,4 +3,4 @@ Jason Wong
 
 A15479499
 
-https://github.com/jpwong0316/Lab7
+https://jpwong0316.github.io/Lab7/
